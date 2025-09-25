@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart'; //
-import 'basic_widgets/loading_cupertino.dart'; // import file loading_cupertino.dart
+import 'basic_widgets/fab_widget.dart'; // import file FabWidget
 
 void main() {
-  runApp(const LoadingCupertino()); // jalankan aplikasi dengan widget LoadingCupertino
+  runApp(const FabWidget()); // jalankan aplikasi dengan FabWidget
 }
